@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "First Webstie"
+title                    : "First Website"
 title_separator          : "-"
 name                     : &name "Amra"
 description              : &description "personal description"
