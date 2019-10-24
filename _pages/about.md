@@ -14,10 +14,12 @@ redirect_from:
 
 ======
 
-<b> LOREM IPSUM </b>
+<b> Google Data </b>
 
 =======
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1982_RC01/embed_loader.js"></script>
+  <script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/0hvbj","geo":"US","time":"2004-01-01 2019-10-24"},{"keyword":"/m/0hmlc","geo":"US","time":"2004-01-01 2019-10-24"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=%2Fm%2F0hvbj,%2Fm%2F0hmlc","guestPath":"https://trends.google.com:443/trends/embed/"});
+  </script>
 
